@@ -8,7 +8,6 @@ const firebaseConfig = {
   authDomain: "druxblox-8d353.firebaseapp.com",
   projectId: "druxblox-8d353",
   storageBucket: "druxblox-8d353.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
   appId: "Druxblox"
 };
 
