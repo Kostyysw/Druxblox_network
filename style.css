@@ -1,0 +1,37 @@
+body {
+  
+  background-color: #000000;
+  text-align: center;
+  
+  
+}
+
+p {
+  
+  color: #188F00;
+  border-radius: 100pt;
+  height: 400px;
+  width: 400px;
+}
+
+input {
+  
+  height: 45px;
+  width: 100px;
+  font-weight: 150px;
+  background-color: #42445A;
+  
+  
+}
+
+#Username {
+  
+  
+  height: 150px;
+  
+  
+    apiKey: "",
+  authDomain: "",
+  projectId: "",
+};
+}
